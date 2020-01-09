@@ -51,7 +51,7 @@ steps:
   commands:
   - make release
   environment:
-    GITHUB_USER: "renaudhager"
+    GITHUB_USER: "giacomoaluigi"
     GITHUB_TOKEN:
       from_secret: GITHUB_TOKEN
 
